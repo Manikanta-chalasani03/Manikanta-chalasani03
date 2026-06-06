@@ -168,7 +168,7 @@ Built a robust accessibility validation framework to ensure WCAG compliance acro
 
 | Degree | Institution | Year | Score |
 |--------|-------------|------|-------|
-| **B.Tech — Mechanical Engineering** | Dhanekula Institute of Engineering & Technology *(Affiliated to JNTUK)* | June 2018 – April 2021 | **CGPA: 7.5** |
+| **B.Tech — Mechanical Engineering** | Dhanekula Institute of Engineering & Technology *(Affiliated to JNTUK)* | June 2018 – April 2021 | **CGPA: 8.5** |
 
 📍 Vijayawada, Andhra Pradesh, India
 
